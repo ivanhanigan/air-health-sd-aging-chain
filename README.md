@@ -32,6 +32,12 @@ MIT
 
 [https://vensim.com/free-download/](https://vensim.com/free-download/)
 
+## Demonstration
+
+[![Simulation Video](https://drive.google.com/thumbnail?id=1hMEF8uVEifL0yZqq8UIomd9IdwM0sHzS&sz=w640)](https://drive.google.com/file/d/1hMEF8uVEifL0yZqq8UIomd9IdwM0sHzS/view?usp=sharing)
+
+[Watch the system dynamics simulation](https://drive.google.com/file/d/1hMEF8uVEifL0yZqq8UIomd9IdwM0sHzS/view?usp=sharing)
+
 ## Demo
 
 
