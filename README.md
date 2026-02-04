@@ -28,6 +28,10 @@ Many other modeling tools are available, each with different strengths for speci
 
 MIT
 
+## Software requirements
+
+[https://vensim.com/free-download/](https://vensim.com/free-download/)
+
 ## Related Projects
 - [iomlifetR](https://github.com/richardbroome2002/iomlifetR) - Life-table based approach using Leslie matrices
 - [air-health-sws-r-targets](https://github.com/YOUR_USERNAME/air-health-sws-r-targets) - Pipeline for environmental health impact assessment
