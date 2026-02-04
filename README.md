@@ -32,6 +32,10 @@ MIT
 
 [https://vensim.com/free-download/](https://vensim.com/free-download/)
 
+## Demo
+
+<video src="https://github.com/ivanhanigan/air-health-sd-aging-chain/HANIGAN_HIA_impact_sim.mp4" controls></video>
+
 ## Related Projects
 - [iomlifetR](https://github.com/richardbroome2002/iomlifetR) - Life-table based approach using Leslie matrices
 - [air-health-sws-r-targets](https://github.com/YOUR_USERNAME/air-health-sws-r-targets) - Pipeline for environmental health impact assessment
