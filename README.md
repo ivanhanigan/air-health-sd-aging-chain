@@ -34,7 +34,16 @@ MIT
 
 ## Demo
 
-<iframe src="https://drive.google.com/file/d/1hMEF8uVEifL0yZqq8UIomd9IdwM0sHzS/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<div class="video-container">
+  <iframe 
+    src="https://drive.google.com/file/d/1hMEF8uVEifL0yZqq8UIomd9IdwM0sHzS/preview" 
+    width="640" 
+    height="480" 
+    allow="autoplay"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Related Projects
 - [iomlifetR](https://github.com/richardbroome2002/iomlifetR) - Life-table based approach using Leslie matrices
