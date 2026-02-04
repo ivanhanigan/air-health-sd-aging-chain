@@ -34,7 +34,7 @@ MIT
 
 ## Demo
 
-<video src="https://github.com/ivanhanigan/air-health-sd-aging-chain/HANIGAN_HIA_impact_sim.mp4" controls></video>
+<iframe src="https://drive.google.com/file/d/1hMEF8uVEifL0yZqq8UIomd9IdwM0sHzS/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Related Projects
 - [iomlifetR](https://github.com/richardbroome2002/iomlifetR) - Life-table based approach using Leslie matrices
